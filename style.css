@@ -1,0 +1,15 @@
+h3 {
+    font-size: 17px;
+    color: orange;
+    margin-top: 13px;
+    margin-left: 30px;
+}
+
+#countries {
+    width: 40%;
+    height: 35px;
+    border-radius: 2%;
+    margin-top: 10px;
+    margin-left: 5px;
+    
+}
